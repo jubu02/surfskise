@@ -7,7 +7,7 @@ logo: "assets/images/logo.png"
 favicon: "assets/images/favicon.ico"
 author: Sal
 paginate: 30
-disqus: "demowebsite"
+disqus: "surfski.se"
 locale: en_us
 lang: en_us
 feed_items: 10
@@ -21,15 +21,6 @@ sass:
   sass_dir: _sass
   style: :compressed
 ganalytics: UA-113961478-1
-
-jekyll_admin:
-  hidden_links:
-    - posts
-    - pages
-    - staticfiles
-    - datafiles
-    - configuration
-  homepage: "pages"
 
 # Authors
 authors:
