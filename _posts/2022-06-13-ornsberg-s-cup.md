@@ -1,13 +1,14 @@
 ---
-layout: Stockholms Cupen
-title: ÖKS Tuesday sprints
+layout: ''
+title: Tisdagar hos ÖKS - Örnsbergscupen
 categories:
-- cup
 - surfski
 - k1
-- sprints
 - öks
+- tävling
 image: assets/images/oks-tuesday.jpg
 
 ---
-Every tuesday @ 1830 between May & first halv of June and a break until mid August to continued to the end of September, Örnsberg Kanotsällskap arranges their sprint cup. Feel free to come by to look or participate (requires separate registration at location).
+Varje torsdag kl 18.30 under Maj, halva Juni med sommaruppehåll tom mitten Augusti och därifrån till avslut under September arrangerar Örnsbergs Kanotsällskap Örnsbergscupen.
+
+Alla är välkomna att heja på och vara publik, vill du deltaga får du prata med tävlingsledningen på plats, kom i god tid isåfall.
