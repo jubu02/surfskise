@@ -1,6 +1,6 @@
 ---
 layout: post
-title: FKI thursday sessions
+title: FKI Thursday sessions
 categories:
 - spot
 - calendar
