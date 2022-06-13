@@ -1,6 +1,6 @@
 ---
-layout: Tuesday sprints @ ÖKS
-title: Örnsberg's Cup
+layout: Stockholms Cupen
+title: ÖKS Tuesday sprints
 categories:
 - cup
 - surfski
