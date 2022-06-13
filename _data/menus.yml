@@ -1,16 +1,16 @@
 # Top Menu
 topmenu:
-  - title: Latest
-    url: "latest/"
+  - title: Senaste
+    url: "senaste/"
 
-  - title: Gears
-    url: "gears/"
+  - title: Prylar
+    url: "prylar/"
 
-  - title: Spots
-    url: "spots/"
+  - title: Platser
+    url: "platser/"
 
-  - title: Schedule
-    url: "schedule/"
+  - title: Kalendarium
+    url: "kalendarium/"
     class: "ml-2 btn btn-dark text-white px-3"
     external: true
 
@@ -22,9 +22,9 @@ footermenu:
   - title: Privacy Policy
     url: "privacy-policy/"
 
-  - title: Contact
-    url: "contact/"
+  - title: Kontakt
+    url: "kontakt/"
 
-  - title: About
-    url: about/
+  - title: Om oss
+    url: om/
     external: true
