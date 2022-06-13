@@ -10,7 +10,7 @@ topmenu:
     url: "spots/"
 
   - title: Schedule
-    url: schedule/
+    url: "schedule/"
     class: "ml-2 btn btn-dark text-white px-3"
     external: true
 
