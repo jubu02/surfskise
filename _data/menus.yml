@@ -1,13 +1,13 @@
 # Top Menu
 topmenu:
-  - title: Home
-    url: ""
-
   - title: Latest
     url: "latest/"
 
-  - title: X-Ray
-    url: "x-ray/"
+  - title: Gears
+    url: "gears/"
+
+  - title: Spots
+    url: "spots/"
 
   - title: Schedule
     url: schedule/
