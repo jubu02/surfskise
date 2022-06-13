@@ -1,5 +1,5 @@
 ---
-layout: Blog post
+layout: default
 title: Torsdagar hos FKI - Djurgårdspaddling
 categories:
 - socialt
