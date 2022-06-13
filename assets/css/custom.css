@@ -8,3 +8,7 @@ body {}
 .site-logo {
     width: 70px !important;
 }
+
+.mb-4 {
+    width: 100%;
+}
