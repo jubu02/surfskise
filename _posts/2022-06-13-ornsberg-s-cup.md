@@ -1,5 +1,5 @@
 ---
-layout: ''
+layout: Blog post
 title: Tisdagar hos ÖKS - Örnsbergscupen
 categories:
 - surfski
