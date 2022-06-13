@@ -14,3 +14,6 @@ fields:
 - type: file
   name: image
   label: image
+pages:
+- _posts/2022-06-13-ornsberg-s-cup.md
+- _posts/torsdagar-hos-fki-djurgardspaddling.md
