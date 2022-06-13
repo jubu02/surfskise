@@ -34,13 +34,13 @@ jekyll_admin:
 # Authors
 authors:
   sal:
-    name: Sal
-    display_name: Sal
+    name: Admin
+    display_name: admin
     avatar: "assets/images/sal.png"
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/category/jekyll-themes/
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Affiliates, a template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+    email: boss@surfski.se
+    web: https://surfski.se
+    twitter: https://twitter.com/surfskisweden
+    description: "SurfSki Sweden"
   john:
     name: John
     display_name: John
@@ -52,9 +52,9 @@ authors:
 
 # Social
 social:
-  instagram: https://www.instagram.com/bootstrapstarter/
-  facebook: https://www.facebook.com/bootstrapstartercom-346329609045284
-  twitter: https://twitter.com/bstartercom
+  instagram: https://www.instagram.com/surfskisweden/
+  facebook: https://www.facebook.com/surfskisweden
+  twitter: https://twitter.com/surfskisweden
 
 # Plugins
 plugins:
@@ -63,3 +63,4 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-archives
+  - jekyll-menus
