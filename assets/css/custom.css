@@ -6,5 +6,5 @@ Just customize your theme here.
 body {}
 
 .site-logo {
-    width: 70px;
+    width: 70px !important;
 }
