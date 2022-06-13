@@ -5,6 +5,6 @@ Just customize your theme here.
 
 body {}
 
-site-logo {
+.site-logo {
     width: 70px;
 }
