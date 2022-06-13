@@ -7,6 +7,6 @@ categories:
 - k1
 - sprints
 - öks
-image: ''
+image: assets/images/oks-tuesday.jpg
 
 ---
