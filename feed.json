@@ -2,57 +2,59 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Surfski 🇸🇪",
     "description": "",
-    "home_page_url": "https://jubu02.github.io/surfskise",
-    "feed_url": "https://jubu02.github.io/surfskise/feed.json",
+    "home_page_url": "https://surfski.se",
+    "feed_url": "https://surfski.se/feed.json",
     "user_comment": "",
-    "icon": "https://jubu02.github.io/surfskise/media/website/logo-svg-1.png",
+    "icon": "https://surfski.se/media/website/logo-svg-1.png",
     "author": {
         "name": "admin"
     },
     "items": [
         {
-            "id": "https://jubu02.github.io/surfskise/epic-v10-elite/",
-            "url": "https://jubu02.github.io/surfskise/epic-v10-elite/",
+            "id": "https://surfski.se/epic-v10-elite/",
+            "url": "https://surfski.se/epic-v10-elite/",
             "title": "Epic Kayaks V10 Elite",
             "summary": "Här kan man diskutera Epic V10 bla bla",
             "content_html": "<p>Här kan man diskutera Epic V10 bla bla</p>",
-            "image": "https://jubu02.github.io/surfskise/media/posts/11/f45d655575e97f094813cafeb5b8ded9_XL.jpg",
+            "image": "https://surfski.se/media/posts/11/f45d655575e97f094813cafeb5b8ded9_XL.jpg",
             "author": {
                 "name": "admin"
             },
             "tags": [
                    "v10",
                    "review",
-                   "epickayaks"
+                   "epickayaks",
+                   "10.4kg"
             ],
             "date_published": "2022-06-15T16:58:28+02:00",
-            "date_modified": "2022-06-15T17:10:10+02:00"
+            "date_modified": "2022-06-15T18:57:58+02:00"
         },
         {
-            "id": "https://jubu02.github.io/surfskise/nordic-kayaks-nitro-600/",
-            "url": "https://jubu02.github.io/surfskise/nordic-kayaks-nitro-600/",
-            "title": "Nordic Kayaks Nitro 600",
+            "id": "https://surfski.se/nordic-kayaks-nitro-600/",
+            "url": "https://surfski.se/nordic-kayaks-nitro-600/",
+            "title": "Nordic Kayaks Nitro (600)",
             "summary": "Här kan man ha en review",
             "content_html": "<p>Här kan man ha en review</p>",
-            "image": "https://jubu02.github.io/surfskise/media/posts/10/index_104_2342915749.png",
+            "image": "https://surfski.se/media/posts/10/nitro-black-4.jpg",
             "author": {
                 "name": "admin"
             },
             "tags": [
                    "review",
                    "nordickayaks",
-                   "nitro"
+                   "nitro",
+                   "8.4kg"
             ],
             "date_published": "2022-06-15T16:57:49+02:00",
-            "date_modified": "2022-06-15T17:25:48+02:00"
+            "date_modified": "2022-06-15T18:58:57+02:00"
         },
         {
-            "id": "https://jubu02.github.io/surfskise/mandagar-3/",
-            "url": "https://jubu02.github.io/surfskise/mandagar-3/",
+            "id": "https://surfski.se/mandagar-3/",
+            "url": "https://surfski.se/mandagar-3/",
             "title": "Måndagsträning med SKK (copy)",
             "summary": "På måndagar kl 18.00 erbjuder Stockholms Kajakklubb träningstillfällen för alla sina medlemmar som vill förbättra och slipa på sin teknik. Vi samlas ombytta och i vattnet strax före 18 för att under dryga timmen träna på teknik &amp; fart, allt som oftast i det närliggande&hellip;",
             "content_html": "<p> </p>\n<p data-pm-slice=\"1 1 []\">På måndagar kl 18.00 erbjuder Stockholms Kajakklubb träningstillfällen för alla sina medlemmar som vill förbättra och slipa på sin teknik.</p>\n<p data-pm-slice=\"1 1 []\">Vi samlas ombytta och i vattnet strax före 18 för att under dryga timmen träna på teknik &amp; fart, allt som oftast i det närliggande Pålsundet.</p>\n<p class=\"msg msg--highlight \">Detta träningstillfälle är för medlemmar i SKK.</p>",
-            "image": "https://jubu02.github.io/surfskise/media/posts/9/photo_2022-06-14_13-11-23.jpg",
+            "image": "https://surfski.se/media/posts/9/photo_2022-06-14_13-11-23.jpg",
             "author": {
                 "name": "admin"
             },
@@ -65,12 +67,12 @@
             "date_modified": "2022-06-15T16:55:59+02:00"
         },
         {
-            "id": "https://jubu02.github.io/surfskise/torsdagar-3/",
-            "url": "https://jubu02.github.io/surfskise/torsdagar-3/",
+            "id": "https://surfski.se/torsdagar-3/",
+            "url": "https://surfski.se/torsdagar-3/",
             "title": "Torsdagspaddling vid Djurgården hos FKI (copy)",
             "summary": "På torsdagar kl 18.00 med uppehåll från midsommar till mitten av Augusti arrangerar Föreningen för Kanotidrott paddling och träningstillfälle för alla som vill. Vi samlas ombytta och i vattnet strax före 18 för att under dryga timmen träna på teknik, socialisera och njuta av det&hellip;",
             "content_html": "<p> </p>\n<p data-pm-slice=\"1 1 []\">På torsdagar kl 18.00 med uppehåll från midsommar till mitten av Augusti arrangerar Föreningen för Kanotidrott paddling och träningstillfälle för alla som vill.</p>\n<p data-pm-slice=\"1 1 []\">Vi samlas ombytta och i vattnet strax före 18 för att under dryga timmen träna på teknik, socialisera och njuta av det bästa Stockholm har att erbjuda i solnedgång som regn.</p>\n<p class=\"msg msg--highlight \">Du behöver inte vara medlem för att ansluta via vattnet med egen kajak.</p>",
-            "image": "https://jubu02.github.io/surfskise/media/posts/8/fki-thursday-2.jpg",
+            "image": "https://surfski.se/media/posts/8/fki-thursday-2.jpg",
             "author": {
                 "name": "admin"
             },
@@ -83,12 +85,12 @@
             "date_modified": "2022-06-15T17:02:28+02:00"
         },
         {
-            "id": "https://jubu02.github.io/surfskise/tisdagar-4/",
-            "url": "https://jubu02.github.io/surfskise/tisdagar-4/",
+            "id": "https://surfski.se/tisdagar-4/",
+            "url": "https://surfski.se/tisdagar-4/",
             "title": "Tisdagstävling Örnsbergscupen (copy)",
             "summary": "Varje tisdag kl 18.30 under Maj, halva Juni med sommaruppehåll tom mitten Augusti och därifrån till avslut under September arrangerar Örnsbergs Kanotsällskap Örnsbergscupen. Alla är välkomna att heja på och vara publik, vill du deltaga får du prata med tävlingsledningen på plats, kom i god&hellip;",
             "content_html": "<p> </p>\n<p data-pm-slice=\"1 1 []\">Varje tisdag kl 18.30 under Maj, halva Juni med sommaruppehåll tom mitten Augusti och därifrån till avslut under September arrangerar Örnsbergs Kanotsällskap Örnsbergscupen.</p>\n<p class=\"msg msg--highlight \">Alla är välkomna att heja på och vara publik, vill du deltaga får du prata med tävlingsledningen på plats, kom i god tid isåfall.</p>",
-            "image": "https://jubu02.github.io/surfskise/media/posts/7/WhatsApp-Image-2022-06-14-at-7.52.12-PM.jpeg",
+            "image": "https://surfski.se/media/posts/7/WhatsApp-Image-2022-06-14-at-7.52.12-PM.jpeg",
             "author": {
                 "name": "admin"
             },
@@ -100,12 +102,12 @@
             "date_modified": "2022-06-15T17:27:17+02:00"
         },
         {
-            "id": "https://jubu02.github.io/surfskise/tisdagar-3/",
-            "url": "https://jubu02.github.io/surfskise/tisdagar-3/",
+            "id": "https://surfski.se/tisdagar-3/",
+            "url": "https://surfski.se/tisdagar-3/",
             "title": "Tisdagstävling Örnsbergscupen (copy)",
             "summary": "Varje tisdag kl 18.30 under Maj, halva Juni med sommaruppehåll tom mitten Augusti och därifrån till avslut under September arrangerar Örnsbergs Kanotsällskap Örnsbergscupen. Alla är välkomna att heja på och vara publik, vill du deltaga får du prata med tävlingsledningen på plats, kom i god&hellip;",
             "content_html": "<p> </p>\n<p data-pm-slice=\"1 1 []\">Varje tisdag kl 18.30 under Maj, halva Juni med sommaruppehåll tom mitten Augusti och därifrån till avslut under September arrangerar Örnsbergs Kanotsällskap Örnsbergscupen.</p>\n<p class=\"msg msg--highlight \">Alla är välkomna att heja på och vara publik, vill du deltaga får du prata med tävlingsledningen på plats, kom i god tid isåfall.</p>",
-            "image": "https://jubu02.github.io/surfskise/media/posts/6/WhatsApp-Image-2022-06-14-at-7.52.12-PM.jpeg",
+            "image": "https://surfski.se/media/posts/6/WhatsApp-Image-2022-06-14-at-7.52.12-PM.jpeg",
             "author": {
                 "name": "admin"
             },
@@ -118,12 +120,12 @@
             "date_modified": "2022-06-15T17:27:47+02:00"
         },
         {
-            "id": "https://jubu02.github.io/surfskise/torsdagar-2/",
-            "url": "https://jubu02.github.io/surfskise/torsdagar-2/",
+            "id": "https://surfski.se/torsdagar-2/",
+            "url": "https://surfski.se/torsdagar-2/",
             "title": "Torsdagspaddling vid Djurgården hos FKI (copy)",
             "summary": "På torsdagar kl 18.00 med uppehåll från midsommar till mitten av Augusti arrangerar Föreningen för Kanotidrott paddling och träningstillfälle för alla som vill. Vi samlas ombytta och i vattnet strax före 18 för att under dryga timmen träna på teknik, socialisera och njuta av det&hellip;",
             "content_html": "<p> </p>\n<p data-pm-slice=\"1 1 []\">På torsdagar kl 18.00 med uppehåll från midsommar till mitten av Augusti arrangerar Föreningen för Kanotidrott paddling och träningstillfälle för alla som vill.</p>\n<p data-pm-slice=\"1 1 []\">Vi samlas ombytta och i vattnet strax före 18 för att under dryga timmen träna på teknik, socialisera och njuta av det bästa Stockholm har att erbjuda i solnedgång som regn.</p>\n<p class=\"msg msg--highlight \">Du behöver inte vara medlem för att ansluta via vattnet med egen kajak.</p>",
-            "image": "https://jubu02.github.io/surfskise/media/posts/5/fki-thursday-2.jpg",
+            "image": "https://surfski.se/media/posts/5/fki-thursday-2.jpg",
             "author": {
                 "name": "admin"
             },
@@ -135,12 +137,12 @@
             "date_modified": "2022-06-15T16:42:31+02:00"
         },
         {
-            "id": "https://jubu02.github.io/surfskise/mandagar-2/",
-            "url": "https://jubu02.github.io/surfskise/mandagar-2/",
+            "id": "https://surfski.se/mandagar-2/",
+            "url": "https://surfski.se/mandagar-2/",
             "title": "Måndagsträning med SKK (copy)",
             "summary": "På måndagar kl 18.00 erbjuder Stockholms Kajakklubb träningstillfällen för alla sina medlemmar som vill förbättra och slipa på sin teknik. Vi samlas ombytta och i vattnet strax före 18 för att under dryga timmen träna på teknik &amp; fart, allt som oftast i det närliggande&hellip;",
             "content_html": "<p> </p>\n<p data-pm-slice=\"1 1 []\">På måndagar kl 18.00 erbjuder Stockholms Kajakklubb träningstillfällen för alla sina medlemmar som vill förbättra och slipa på sin teknik.</p>\n<p data-pm-slice=\"1 1 []\">Vi samlas ombytta och i vattnet strax före 18 för att under dryga timmen träna på teknik &amp; fart, allt som oftast i det närliggande Pålsundet.</p>\n<p class=\"msg msg--highlight \">Detta träningstillfälle är för medlemmar i SKK.</p>",
-            "image": "https://jubu02.github.io/surfskise/media/posts/4/photo_2022-06-14_13-11-23.jpg",
+            "image": "https://surfski.se/media/posts/4/photo_2022-06-14_13-11-23.jpg",
             "author": {
                 "name": "admin"
             },
@@ -152,12 +154,12 @@
             "date_modified": "2022-06-15T16:52:14+02:00"
         },
         {
-            "id": "https://jubu02.github.io/surfskise/mandagar/",
-            "url": "https://jubu02.github.io/surfskise/mandagar/",
+            "id": "https://surfski.se/mandagar/",
+            "url": "https://surfski.se/mandagar/",
             "title": "Måndagsträning med SKK",
             "summary": "På måndagar kl 18.00 erbjuder Stockholms Kajakklubb träningstillfällen för alla sina medlemmar som vill förbättra och slipa på sin teknik. Vi samlas ombytta och i vattnet strax före 18 för att under dryga timmen träna på teknik &amp; fart, allt som oftast i det närliggande&hellip;",
             "content_html": "<p> </p>\n<p data-pm-slice=\"1 1 []\">På måndagar kl 18.00 erbjuder Stockholms Kajakklubb träningstillfällen för alla sina medlemmar som vill förbättra och slipa på sin teknik.</p>\n<p data-pm-slice=\"1 1 []\">Vi samlas ombytta och i vattnet strax före 18 för att under dryga timmen träna på teknik &amp; fart, allt som oftast i det närliggande Pålsundet.</p>\n<p class=\"msg msg--highlight \">Detta träningstillfälle är för medlemmar i SKK.</p>",
-            "image": "https://jubu02.github.io/surfskise/media/posts/3/photo_2022-06-14_13-11-23.jpg",
+            "image": "https://surfski.se/media/posts/3/photo_2022-06-14_13-11-23.jpg",
             "author": {
                 "name": "admin"
             },
@@ -170,12 +172,12 @@
             "date_modified": "2022-06-15T17:03:21+02:00"
         },
         {
-            "id": "https://jubu02.github.io/surfskise/torsdagar/",
-            "url": "https://jubu02.github.io/surfskise/torsdagar/",
+            "id": "https://surfski.se/torsdagar/",
+            "url": "https://surfski.se/torsdagar/",
             "title": "Torsdagspaddling vid Djurgården hos FKI",
             "summary": "På torsdagar kl 18.00 med uppehåll från midsommar till mitten av Augusti arrangerar Föreningen för Kanotidrott paddling och träningstillfälle för alla som vill. Vi samlas ombytta och i vattnet strax före 18 för att under dryga timmen träna på teknik, socialisera och njuta av det&hellip;",
             "content_html": "<p> </p>\n<p data-pm-slice=\"1 1 []\">På torsdagar kl 18.00 med uppehåll från midsommar till mitten av Augusti arrangerar Föreningen för Kanotidrott paddling och träningstillfälle för alla som vill.</p>\n<p data-pm-slice=\"1 1 []\">Vi samlas ombytta och i vattnet strax före 18 för att under dryga timmen träna på teknik, socialisera och njuta av det bästa Stockholm har att erbjuda i solnedgång som regn.</p>\n<p class=\"msg msg--highlight \">Du behöver inte vara medlem för att ansluta via vattnet med egen kajak.</p>",
-            "image": "https://jubu02.github.io/surfskise/media/posts/2/fki-thursday-2.jpg",
+            "image": "https://surfski.se/media/posts/2/fki-thursday-2.jpg",
             "author": {
                 "name": "admin"
             },
