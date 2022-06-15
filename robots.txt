@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://jubu02.github.io/surfskise/sitemap.xml
