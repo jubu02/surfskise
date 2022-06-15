@@ -49,18 +49,18 @@
         {
             "id": "https://surfski.se/mandagar-3/",
             "url": "https://surfski.se/mandagar-3/",
-            "title": "Välkommen till Surfski Sverige",
+            "title": "Snart kör vi igång Surfski Sverige",
             "summary": "Hej och välkommen. Kul att du tittar förbi surfski.se Då antar vi att du antingen är en aktiv surfski utövare eller är nyfiken på sporten eller kort och gott undrar vad uppståndelsen handlar om. Detta är sajten för dig oavsett vem du är och vad&hellip;",
             "content_html": "<p> </p>\n<p data-pm-slice=\"1 1 []\">Hej och välkommen. Kul att du tittar förbi surfski.se</p>\n<p data-pm-slice=\"1 1 []\">Då antar vi att du antingen är en aktiv surfski utövare eller är nyfiken på sporten eller kort och gott undrar vad uppståndelsen handlar om.</p>\n<p data-pm-slice=\"1 1 []\">Detta är sajten för dig oavsett vem du är och vad du har för ambitioner, tanken är att samla så mycket allmän information som möjligt under en och samma webbsajt.<br>Då samtliga inblandade i detta projekt är aktiva utövare av sporten men med helt olika bakgrunder och nivåer tror vi att sajten kan passa precis vem som helst med intresse kring </p>\n<h1 data-pm-slice=\"1 1 []\">Surfski</h1>\n<p> </p>\n<p class=\"msg msg--highlight \">Sajten är under uppbyggnad och är inte riktigt 100% ännu.</p>",
-            "image": "https://surfski.se/media/posts/9/maxresdefault-2.jpg",
+            "image": "https://surfski.se/media/posts/9/New-Project-8.png",
             "author": {
                 "name": "Redaktionen"
             },
             "tags": [
-                   "Uppmärksammat"
+                   "Aktuellt"
             ],
             "date_published": "2022-06-15T16:50:51+02:00",
-            "date_modified": "2022-06-15T19:33:46+02:00"
+            "date_modified": "2022-06-15T19:53:12+02:00"
         },
         {
             "id": "https://surfski.se/torsdagar-3/",
@@ -75,7 +75,7 @@
             "tags": [
                    "torsdagar",
                    "fki",
-                   "Uppmärksammat"
+                   "Aktuellt"
             ],
             "date_published": "2022-06-15T16:50:51+02:00",
             "date_modified": "2022-06-15T17:02:28+02:00"
@@ -110,7 +110,7 @@
             "tags": [
                    "öks",
                    "tisdagar",
-                   "Uppmärksammat"
+                   "Aktuellt"
             ],
             "date_published": "2022-06-15T16:42:31+02:00",
             "date_modified": "2022-06-15T17:27:47+02:00"
@@ -162,7 +162,7 @@
             "tags": [
                    "skk",
                    "måndagar",
-                   "Uppmärksammat"
+                   "Aktuellt"
             ],
             "date_published": "2022-06-14T12:59:48+02:00",
             "date_modified": "2022-06-15T17:03:21+02:00"
