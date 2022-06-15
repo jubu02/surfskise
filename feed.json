@@ -7,27 +7,26 @@
     "user_comment": "",
     "icon": "https://surfski.se/media/website/logo-svg-1.png",
     "author": {
-        "name": "admin"
+        "name": "Redaktionen"
     },
     "items": [
         {
             "id": "https://surfski.se/epic-v10-elite/",
             "url": "https://surfski.se/epic-v10-elite/",
-            "title": "Epic Kayaks V10 Elite",
-            "summary": "Här kan man diskutera Epic V10 bla bla",
-            "content_html": "<p>Här kan man diskutera Epic V10 bla bla</p>",
+            "title": "Epic Kayaks V10 (Elite)",
+            "summary": "Här har man en genomgång av denna kajak, vad olika personer ur vår testpatrull tycker och tänker om denna kajak. Vikt 10.4 kg Bredd 44 cm Längd 625 cm Lämplig för 160-200 cm Material Kolfiber med Nomex honeycomb kärna. Laminerad med vakuum-injicerad epoxy och vakuum-bakad&hellip;",
+            "content_html": "<p>Här har man en genomgång av denna kajak, vad olika personer ur vår testpatrull tycker och tänker om denna kajak.</p>\n<table class=\"align-left\" style=\"border-collapse: collapse; width: 100%; height: 251.797px;\" border=\"1\">\n<tbody>\n<tr style=\"height: 50.3594px;\">\n<td style=\"width: 49.9287%; height: 50.3594px;\">Vikt</td>\n<td style=\"width: 50.0713%; height: 50.3594px;\">10.4 kg</td>\n</tr>\n<tr style=\"height: 50.3594px;\">\n<td style=\"width: 49.9287%; height: 50.3594px;\">Bredd</td>\n<td style=\"width: 50.0713%; height: 50.3594px;\">44 cm</td>\n</tr>\n<tr style=\"height: 50.3594px;\">\n<td style=\"width: 49.9287%; height: 50.3594px;\">Längd</td>\n<td style=\"width: 50.0713%; height: 50.3594px;\">625 cm</td>\n</tr>\n<tr style=\"height: 50.3594px;\">\n<td style=\"width: 49.9287%; height: 50.3594px;\">Lämplig för</td>\n<td style=\"width: 50.0713%; height: 50.3594px;\">160-200 cm</td>\n</tr>\n<tr style=\"height: 50.3594px;\">\n<td style=\"width: 49.9287%; height: 50.3594px;\">Material</td>\n<td style=\"width: 50.0713%; height: 50.3594px;\">Kolfiber med Nomex honeycomb kärna. Laminerad med vakuum-injicerad epoxy och vakuum-bakad i ugn.</td>\n</tr>\n</tbody>\n</table>",
             "image": "https://surfski.se/media/posts/11/f45d655575e97f094813cafeb5b8ded9_XL.jpg",
             "author": {
-                "name": "admin"
+                "name": "Redaktionen"
             },
             "tags": [
                    "v10",
-                   "review",
                    "epickayaks",
-                   "10.4kg"
+                   "Test"
             ],
             "date_published": "2022-06-15T16:58:28+02:00",
-            "date_modified": "2022-06-15T18:57:58+02:00"
+            "date_modified": "2022-06-15T19:15:42+02:00"
         },
         {
             "id": "https://surfski.se/nordic-kayaks-nitro-600/",
@@ -37,34 +36,31 @@
             "content_html": "<p>Här kan man ha en review</p>",
             "image": "https://surfski.se/media/posts/10/nitro-black-4.jpg",
             "author": {
-                "name": "admin"
+                "name": "Redaktionen"
             },
             "tags": [
-                   "review",
                    "nordickayaks",
                    "nitro",
-                   "8.4kg"
+                   "Test"
             ],
             "date_published": "2022-06-15T16:57:49+02:00",
-            "date_modified": "2022-06-15T18:58:57+02:00"
+            "date_modified": "2022-06-15T19:10:25+02:00"
         },
         {
             "id": "https://surfski.se/mandagar-3/",
             "url": "https://surfski.se/mandagar-3/",
-            "title": "Måndagsträning med SKK (copy)",
-            "summary": "På måndagar kl 18.00 erbjuder Stockholms Kajakklubb träningstillfällen för alla sina medlemmar som vill förbättra och slipa på sin teknik. Vi samlas ombytta och i vattnet strax före 18 för att under dryga timmen träna på teknik &amp; fart, allt som oftast i det närliggande&hellip;",
-            "content_html": "<p> </p>\n<p data-pm-slice=\"1 1 []\">På måndagar kl 18.00 erbjuder Stockholms Kajakklubb träningstillfällen för alla sina medlemmar som vill förbättra och slipa på sin teknik.</p>\n<p data-pm-slice=\"1 1 []\">Vi samlas ombytta och i vattnet strax före 18 för att under dryga timmen träna på teknik &amp; fart, allt som oftast i det närliggande Pålsundet.</p>\n<p class=\"msg msg--highlight \">Detta träningstillfälle är för medlemmar i SKK.</p>",
-            "image": "https://surfski.se/media/posts/9/photo_2022-06-14_13-11-23.jpg",
+            "title": "Välkommen till Surfski Sverige",
+            "summary": "Hej och välkommen. Kul att du tittar förbi surfski.se Då antar vi att du antingen är en aktiv surfski utövare eller är nyfiken på sporten eller kort och gott undrar vad uppståndelsen handlar om. Detta är sajten för dig oavsett vem du är och vad&hellip;",
+            "content_html": "<p> </p>\n<p data-pm-slice=\"1 1 []\">Hej och välkommen. Kul att du tittar förbi surfski.se</p>\n<p data-pm-slice=\"1 1 []\">Då antar vi att du antingen är en aktiv surfski utövare eller är nyfiken på sporten eller kort och gott undrar vad uppståndelsen handlar om.</p>\n<p data-pm-slice=\"1 1 []\">Detta är sajten för dig oavsett vem du är och vad du har för ambitioner, tanken är att samla så mycket allmän information som möjligt under en och samma webbsajt.<br>Då samtliga inblandade i detta projekt är aktiva utövare av sporten men med helt olika bakgrunder och nivåer tror vi att sajten kan passa precis vem som helst med intresse kring </p>\n<h1 data-pm-slice=\"1 1 []\">Surfski</h1>\n<p> </p>\n<p class=\"msg msg--highlight \">Sajten är under uppbyggnad och är inte riktigt 100% ännu.</p>",
+            "image": "https://surfski.se/media/posts/9/maxresdefault-2.jpg",
             "author": {
-                "name": "admin"
+                "name": "Redaktionen"
             },
             "tags": [
-                   "skk",
-                   "måndagar",
-                   "framsida"
+                   "Uppmärksammat"
             ],
             "date_published": "2022-06-15T16:50:51+02:00",
-            "date_modified": "2022-06-15T16:55:59+02:00"
+            "date_modified": "2022-06-15T19:33:46+02:00"
         },
         {
             "id": "https://surfski.se/torsdagar-3/",
@@ -74,12 +70,12 @@
             "content_html": "<p> </p>\n<p data-pm-slice=\"1 1 []\">På torsdagar kl 18.00 med uppehåll från midsommar till mitten av Augusti arrangerar Föreningen för Kanotidrott paddling och träningstillfälle för alla som vill.</p>\n<p data-pm-slice=\"1 1 []\">Vi samlas ombytta och i vattnet strax före 18 för att under dryga timmen träna på teknik, socialisera och njuta av det bästa Stockholm har att erbjuda i solnedgång som regn.</p>\n<p class=\"msg msg--highlight \">Du behöver inte vara medlem för att ansluta via vattnet med egen kajak.</p>",
             "image": "https://surfski.se/media/posts/8/fki-thursday-2.jpg",
             "author": {
-                "name": "admin"
+                "name": "Redaktionen"
             },
             "tags": [
                    "torsdagar",
-                   "framsida",
-                   "fki"
+                   "fki",
+                   "Uppmärksammat"
             ],
             "date_published": "2022-06-15T16:50:51+02:00",
             "date_modified": "2022-06-15T17:02:28+02:00"
@@ -92,7 +88,7 @@
             "content_html": "<p> </p>\n<p data-pm-slice=\"1 1 []\">Varje tisdag kl 18.30 under Maj, halva Juni med sommaruppehåll tom mitten Augusti och därifrån till avslut under September arrangerar Örnsbergs Kanotsällskap Örnsbergscupen.</p>\n<p class=\"msg msg--highlight \">Alla är välkomna att heja på och vara publik, vill du deltaga får du prata med tävlingsledningen på plats, kom i god tid isåfall.</p>",
             "image": "https://surfski.se/media/posts/7/WhatsApp-Image-2022-06-14-at-7.52.12-PM.jpeg",
             "author": {
-                "name": "admin"
+                "name": "Redaktionen"
             },
             "tags": [
                    "öks",
@@ -109,12 +105,12 @@
             "content_html": "<p> </p>\n<p data-pm-slice=\"1 1 []\">Varje tisdag kl 18.30 under Maj, halva Juni med sommaruppehåll tom mitten Augusti och därifrån till avslut under September arrangerar Örnsbergs Kanotsällskap Örnsbergscupen.</p>\n<p class=\"msg msg--highlight \">Alla är välkomna att heja på och vara publik, vill du deltaga får du prata med tävlingsledningen på plats, kom i god tid isåfall.</p>",
             "image": "https://surfski.se/media/posts/6/WhatsApp-Image-2022-06-14-at-7.52.12-PM.jpeg",
             "author": {
-                "name": "admin"
+                "name": "Redaktionen"
             },
             "tags": [
                    "öks",
                    "tisdagar",
-                   "framsida"
+                   "Uppmärksammat"
             ],
             "date_published": "2022-06-15T16:42:31+02:00",
             "date_modified": "2022-06-15T17:27:47+02:00"
@@ -127,7 +123,7 @@
             "content_html": "<p> </p>\n<p data-pm-slice=\"1 1 []\">På torsdagar kl 18.00 med uppehåll från midsommar till mitten av Augusti arrangerar Föreningen för Kanotidrott paddling och träningstillfälle för alla som vill.</p>\n<p data-pm-slice=\"1 1 []\">Vi samlas ombytta och i vattnet strax före 18 för att under dryga timmen träna på teknik, socialisera och njuta av det bästa Stockholm har att erbjuda i solnedgång som regn.</p>\n<p class=\"msg msg--highlight \">Du behöver inte vara medlem för att ansluta via vattnet med egen kajak.</p>",
             "image": "https://surfski.se/media/posts/5/fki-thursday-2.jpg",
             "author": {
-                "name": "admin"
+                "name": "Redaktionen"
             },
             "tags": [
                    "torsdagar",
@@ -144,7 +140,7 @@
             "content_html": "<p> </p>\n<p data-pm-slice=\"1 1 []\">På måndagar kl 18.00 erbjuder Stockholms Kajakklubb träningstillfällen för alla sina medlemmar som vill förbättra och slipa på sin teknik.</p>\n<p data-pm-slice=\"1 1 []\">Vi samlas ombytta och i vattnet strax före 18 för att under dryga timmen träna på teknik &amp; fart, allt som oftast i det närliggande Pålsundet.</p>\n<p class=\"msg msg--highlight \">Detta träningstillfälle är för medlemmar i SKK.</p>",
             "image": "https://surfski.se/media/posts/4/photo_2022-06-14_13-11-23.jpg",
             "author": {
-                "name": "admin"
+                "name": "Redaktionen"
             },
             "tags": [
                    "skk",
@@ -161,12 +157,12 @@
             "content_html": "<p> </p>\n<p data-pm-slice=\"1 1 []\">På måndagar kl 18.00 erbjuder Stockholms Kajakklubb träningstillfällen för alla sina medlemmar som vill förbättra och slipa på sin teknik.</p>\n<p data-pm-slice=\"1 1 []\">Vi samlas ombytta och i vattnet strax före 18 för att under dryga timmen träna på teknik &amp; fart, allt som oftast i det närliggande Pålsundet.</p>\n<p class=\"msg msg--highlight \">Detta träningstillfälle är för medlemmar i SKK.</p>",
             "image": "https://surfski.se/media/posts/3/photo_2022-06-14_13-11-23.jpg",
             "author": {
-                "name": "admin"
+                "name": "Redaktionen"
             },
             "tags": [
                    "skk",
                    "måndagar",
-                   "framsida"
+                   "Uppmärksammat"
             ],
             "date_published": "2022-06-14T12:59:48+02:00",
             "date_modified": "2022-06-15T17:03:21+02:00"
@@ -179,7 +175,7 @@
             "content_html": "<p> </p>\n<p data-pm-slice=\"1 1 []\">På torsdagar kl 18.00 med uppehåll från midsommar till mitten av Augusti arrangerar Föreningen för Kanotidrott paddling och träningstillfälle för alla som vill.</p>\n<p data-pm-slice=\"1 1 []\">Vi samlas ombytta och i vattnet strax före 18 för att under dryga timmen träna på teknik, socialisera och njuta av det bästa Stockholm har att erbjuda i solnedgång som regn.</p>\n<p class=\"msg msg--highlight \">Du behöver inte vara medlem för att ansluta via vattnet med egen kajak.</p>",
             "image": "https://surfski.se/media/posts/2/fki-thursday-2.jpg",
             "author": {
-                "name": "admin"
+                "name": "Redaktionen"
             },
             "tags": [
                    "torsdagar",
