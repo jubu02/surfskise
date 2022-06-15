@@ -65,7 +65,7 @@
         {
             "id": "https://surfski.se/torsdagar-3/",
             "url": "https://surfski.se/torsdagar-3/",
-            "title": "Torsdagspaddling vid Djurgården hos FKI (copy)",
+            "title": "Torsdagspaddling ute på Djurgården med FKI",
             "summary": "På torsdagar kl 18.00 med uppehåll från midsommar till mitten av Augusti arrangerar Föreningen för Kanotidrott paddling och träningstillfälle för alla som vill. Vi samlas ombytta och i vattnet strax före 18 för att under dryga timmen träna på teknik, socialisera och njuta av det&hellip;",
             "content_html": "<p> </p>\n<p data-pm-slice=\"1 1 []\">På torsdagar kl 18.00 med uppehåll från midsommar till mitten av Augusti arrangerar Föreningen för Kanotidrott paddling och träningstillfälle för alla som vill.</p>\n<p data-pm-slice=\"1 1 []\">Vi samlas ombytta och i vattnet strax före 18 för att under dryga timmen träna på teknik, socialisera och njuta av det bästa Stockholm har att erbjuda i solnedgång som regn.</p>\n<p class=\"msg msg--highlight \">Du behöver inte vara medlem för att ansluta via vattnet med egen kajak.</p>",
             "image": "https://surfski.se/media/posts/8/fki-thursday-2.jpg",
@@ -78,29 +78,12 @@
                    "Aktuellt"
             ],
             "date_published": "2022-06-15T16:50:51+02:00",
-            "date_modified": "2022-06-15T17:02:28+02:00"
-        },
-        {
-            "id": "https://surfski.se/tisdagar-4/",
-            "url": "https://surfski.se/tisdagar-4/",
-            "title": "Tisdagstävling Örnsbergscupen (copy)",
-            "summary": "Varje tisdag kl 18.30 under Maj, halva Juni med sommaruppehåll tom mitten Augusti och därifrån till avslut under September arrangerar Örnsbergs Kanotsällskap Örnsbergscupen. Alla är välkomna att heja på och vara publik, vill du deltaga får du prata med tävlingsledningen på plats, kom i god&hellip;",
-            "content_html": "<p> </p>\n<p data-pm-slice=\"1 1 []\">Varje tisdag kl 18.30 under Maj, halva Juni med sommaruppehåll tom mitten Augusti och därifrån till avslut under September arrangerar Örnsbergs Kanotsällskap Örnsbergscupen.</p>\n<p class=\"msg msg--highlight \">Alla är välkomna att heja på och vara publik, vill du deltaga får du prata med tävlingsledningen på plats, kom i god tid isåfall.</p>",
-            "image": "https://surfski.se/media/posts/7/WhatsApp-Image-2022-06-14-at-7.52.12-PM.jpeg",
-            "author": {
-                "name": "Redaktionen"
-            },
-            "tags": [
-                   "öks",
-                   "tisdagar"
-            ],
-            "date_published": "2022-06-15T16:50:51+02:00",
-            "date_modified": "2022-06-15T17:27:17+02:00"
+            "date_modified": "2022-06-15T20:59:31+02:00"
         },
         {
             "id": "https://surfski.se/tisdagar-3/",
             "url": "https://surfski.se/tisdagar-3/",
-            "title": "Tisdagstävling Örnsbergscupen (copy)",
+            "title": "Sommaravslutning Örnsbergscupen",
             "summary": "Varje tisdag kl 18.30 under Maj, halva Juni med sommaruppehåll tom mitten Augusti och därifrån till avslut under September arrangerar Örnsbergs Kanotsällskap Örnsbergscupen. Alla är välkomna att heja på och vara publik, vill du deltaga får du prata med tävlingsledningen på plats, kom i god&hellip;",
             "content_html": "<p> </p>\n<p data-pm-slice=\"1 1 []\">Varje tisdag kl 18.30 under Maj, halva Juni med sommaruppehåll tom mitten Augusti och därifrån till avslut under September arrangerar Örnsbergs Kanotsällskap Örnsbergscupen.</p>\n<p class=\"msg msg--highlight \">Alla är välkomna att heja på och vara publik, vill du deltaga får du prata med tävlingsledningen på plats, kom i god tid isåfall.</p>",
             "image": "https://surfski.se/media/posts/6/WhatsApp-Image-2022-06-14-at-7.52.12-PM.jpeg",
@@ -113,7 +96,7 @@
                    "Aktuellt"
             ],
             "date_published": "2022-06-15T16:42:31+02:00",
-            "date_modified": "2022-06-15T17:27:47+02:00"
+            "date_modified": "2022-06-15T20:53:59+02:00"
         },
         {
             "id": "https://surfski.se/torsdagar-2/",
@@ -183,6 +166,23 @@
             ],
             "date_published": "2022-06-13T22:16:39+02:00",
             "date_modified": "2022-06-15T16:56:13+02:00"
+        },
+        {
+            "id": "https://surfski.se/tisdagar-2/",
+            "url": "https://surfski.se/tisdagar-2/",
+            "title": "Tisdagstävling Örnsbergscupen",
+            "summary": "Varje tisdag kl 18.30 under Maj, halva Juni med sommaruppehåll tom mitten Augusti och därifrån till avslut under September arrangerar Örnsbergs Kanotsällskap Örnsbergscupen. Alla är välkomna att heja på och vara publik, vill du deltaga får du prata med tävlingsledningen på plats, kom i god&hellip;",
+            "content_html": "<p> </p>\n<p data-pm-slice=\"1 1 []\">Varje tisdag kl 18.30 under Maj, halva Juni med sommaruppehåll tom mitten Augusti och därifrån till avslut under September arrangerar Örnsbergs Kanotsällskap Örnsbergscupen.</p>\n<p class=\"msg msg--highlight \">Alla är välkomna att heja på och vara publik, vill du deltaga får du prata med tävlingsledningen på plats, kom i god tid isåfall.</p>",
+            "image": "https://surfski.se/media/posts/1/oks-tuesday-2.jpg",
+            "author": {
+                "name": "Redaktionen"
+            },
+            "tags": [
+                   "öks",
+                   "tisdagar"
+            ],
+            "date_published": "2022-06-13T22:12:46+02:00",
+            "date_modified": "2022-06-15T09:02:54+02:00"
         }
     ]
 }
