@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://surfski.se/annonser/",
+            "url": "https://surfski.se/annonser/",
+            "title": "Köp &amp; Sälj",
+            "summary": "Vi ämnar framöver bygga upp en riktigt smidig funktion för att låta er publicera surfski relaterade prylar till salu eller som önskas köpas. Fram tills dess kommer ni kunna använda nedanstående formulär för att skicka in er annons.",
+            "content_html": "<p>Vi ämnar framöver bygga upp en riktigt smidig funktion för att låta er publicera surfski relaterade prylar till salu eller som önskas köpas.</p>\n<p>Fram tills dess kommer ni kunna använda nedanstående formulär för att skicka in er annons.</p>\n<div class=\"container\" style=\"padding: 5%;\"><form action=\"https://formsubmit.co/your@email.com\" enctype=\"multipart/form-data\" method=\"POST\" target=\"_blank\">\n<div class=\"form-group\">\n<div class=\"form-row\">\n<div class=\"col\" style=\"margin: 5%;\"><input class=\"form-control\" style=\"width: 100%;\" required=\"\" type=\"text\" placeholder=\"Ditt namn\"></div>\n<div class=\"col\" style=\"margin: 5%;\"><input class=\"form-control\" style=\"width: 100%;\" name=\"email\" required=\"\" type=\"email\" placeholder=\"Din epost\"></div>\n<div><input style=\"display: none;\" name=\"_honey\" type=\"text\"></div>\n<input class=\"custom-file-input\" style=\"width: 100%;\" accept=\"image/png, image/jpeg\" name=\"attachment\" type=\"file\"></div>\n</div>\n<div class=\"form-group\" style=\"margin: 5%;\"><textarea class=\"form-control\" style=\"width: 100%;\" name=\"message\" required=\"\" rows=\"10\" placeholder=\"Din annons\"></textarea></div>\n<button class=\"btn btn-lg btn-dark btn-block\" style=\"margin-left: 70%;\" type=\"submit\">Submit Form</button></form></div>\n<p><input name=\"_next\" type=\"hidden\" value=\"https://surfski.se/annons-mottagen/index.html\"></p>",
+            "author": {
+                "name": "Redaktionen"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-06-17T08:07:52+02:00",
+            "date_modified": "2022-06-17T08:59:26+02:00"
+        },
+        {
             "id": "https://surfski.se/testpatrullen/",
             "url": "https://surfski.se/testpatrullen/",
             "title": "Testpatrullen 2022 💪😎",
@@ -164,23 +178,6 @@
             ],
             "date_published": "2022-06-14T12:59:48+02:00",
             "date_modified": "2022-06-16T09:49:11+02:00"
-        },
-        {
-            "id": "https://surfski.se/torsdagar/",
-            "url": "https://surfski.se/torsdagar/",
-            "title": "Torsdagspaddling vid Djurgården hos FKI",
-            "summary": "På torsdagar kl 18.00 med uppehåll från midsommar till mitten av Augusti arrangerar Föreningen för Kanotidrott paddling och träningstillfälle för alla som vill. Vi samlas ombytta och i vattnet strax före 18 för att under dryga timmen träna på teknik, socialisera och njuta av det&hellip;",
-            "content_html": "<p> </p>\n<p data-pm-slice=\"1 1 []\">På torsdagar kl 18.00 med uppehåll från midsommar till mitten av Augusti arrangerar Föreningen för Kanotidrott paddling och träningstillfälle för alla som vill.</p>\n<p data-pm-slice=\"1 1 []\">Vi samlas ombytta och i vattnet strax före 18 för att under dryga timmen träna på teknik, socialisera och njuta av det bästa Stockholm har att erbjuda i solnedgång som regn.</p>\n<p class=\"msg msg--highlight \">Du behöver inte vara medlem för att ansluta via vattnet med egen kajak.</p>",
-            "image": "https://surfski.se/media/posts/2/fki-thursday-2.jpg",
-            "author": {
-                "name": "Redaktionen"
-            },
-            "tags": [
-                   "torsdagar",
-                   "fki"
-            ],
-            "date_published": "2022-06-13T22:16:39+02:00",
-            "date_modified": "2022-06-15T16:56:13+02:00"
         }
     ]
 }
