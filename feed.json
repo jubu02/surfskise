@@ -14,15 +14,15 @@
             "id": "https://surfski.se/annonser/",
             "url": "https://surfski.se/annonser/",
             "title": "Köp &amp; Sälj",
-            "summary": "Vi ämnar framöver bygga upp en riktigt smidig funktion för att låta er publicera surfski relaterade prylar till salu eller som önskas köpas. Fram tills dess kommer ni kunna använda nedanstående formulär för att skicka in er annons. Skicka in annons",
-            "content_html": "<p>Vi ämnar framöver bygga upp en riktigt smidig funktion för att låta er publicera surfski relaterade prylar till salu eller som önskas köpas.</p>\n<p>Fram tills dess kommer ni kunna använda nedanstående formulär för att skicka in er annons.</p>\n<div class=\"container\" style=\"padding: 5%;\"><form action=\"https://formsubmit.co/678317f5527d739f5ea503f54ca3a2bd \" enctype=\"multipart/form-data\" method=\"POST\" target=\"_blank\">\n<div class=\"form-group\">\n<div class=\"form-row\"><input name=\"_next\" type=\"hidden\" value=\"https://surfski.se/annons-mottagen/index.html\">\n<div class=\"col\" style=\"margin: 5%;\"><input class=\"form-control\" style=\"width: 100%;\" required=\"\" type=\"text\" placeholder=\"Ditt namn\"></div>\n<div class=\"col\" style=\"margin: 5%;\"><input class=\"form-control\" style=\"width: 100%;\" name=\"email\" required=\"\" type=\"email\" placeholder=\"Din epost\"></div>\n<div><input style=\"display: none;\" name=\"_honey\" type=\"text\"></div>\n<div class=\"col\" style=\"margin: 5%;\"><input style=\"width: 100%;\" name=\"_subject\" required=\"\" type=\"text\" placeholder=\"Sätt en rubrik till din annons\"></div>\n</div>\n</div>\n<input class=\"custom-file-input\" style=\"width: 100%; text-align: left;\" accept=\"image/png, image/jpeg\" name=\"attachment\" type=\"file\">\n<div class=\"form-group\" style=\"margin: 5%;\"><textarea class=\"form-control\" style=\"width: 100%;\" name=\"message\" required=\"\" rows=\"10\" placeholder=\"Skapa en annonsbeskrivning\"></textarea></div>\n<button class=\"btn btn-lg btn-dark btn-block\" style=\"margin-left: 70%;\" type=\"submit\">Skicka in annons</button></form></div>",
+            "summary": "Vi ämnar framöver bygga upp en riktigt smidig funktion för att låta er publicera surfskirelaterade prylar till salu eller som önskas köpas. Fram tills dess kommer ni kunna använda nedanstående formulär för att skicka in er annons. Skicka in annons",
+            "content_html": "<p>Vi ämnar framöver bygga upp en riktigt smidig funktion för att låta er publicera surfskirelaterade prylar till salu eller som önskas köpas.</p>\n<p>Fram tills dess kommer ni kunna använda nedanstående formulär för att skicka in er annons.</p>\n<div class=\"container\" style=\"padding: 5%;\"><form action=\"https://formsubmit.co/678317f5527d739f5ea503f54ca3a2bd \" enctype=\"multipart/form-data\" method=\"POST\" target=\"_blank\">\n<div class=\"form-group\">\n<div class=\"form-row\"><input name=\"_next\" type=\"hidden\" value=\"https://surfski.se/annons-mottagen/index.html\">\n<div class=\"col\" style=\"margin: 5%;\"><input class=\"form-control\" style=\"width: 100%;\" required=\"\" type=\"text\" placeholder=\"Ditt namn\"></div>\n<div class=\"col\" style=\"margin: 5%;\"><input class=\"form-control\" style=\"width: 100%;\" name=\"email\" required=\"\" type=\"email\" placeholder=\"Din epost\"></div>\n<div><input style=\"display: none;\" name=\"_honey\" type=\"text\"></div>\n<div class=\"col\" style=\"margin: 5%;\"><input style=\"width: 100%;\" name=\"_subject\" required=\"\" type=\"text\" placeholder=\"Sätt en rubrik till din annons\"></div>\n</div>\n</div>\n<input class=\"custom-file-input\" style=\"width: 100%; text-align: left;\" accept=\"image/png, image/jpeg\" name=\"attachment\" type=\"file\">\n<div class=\"form-group\" style=\"margin: 5%;\"><textarea class=\"form-control\" style=\"width: 100%;\" name=\"message\" required=\"\" rows=\"10\" placeholder=\"Skapa en annonsbeskrivning\"></textarea></div>\n<button class=\"btn btn-lg btn-dark btn-block\" style=\"margin-left: 70%;\" type=\"submit\">Skicka in annons</button></form></div>",
             "author": {
                 "name": "Redaktionen"
             },
             "tags": [
             ],
             "date_published": "2022-06-17T08:07:52+02:00",
-            "date_modified": "2022-06-17T09:55:20+02:00"
+            "date_modified": "2022-06-17T16:07:58+02:00"
         },
         {
             "id": "https://surfski.se/testpatrullen/",
@@ -79,8 +79,8 @@
             "id": "https://surfski.se/mandagar-3/",
             "url": "https://surfski.se/mandagar-3/",
             "title": "Snart kör vi igång Surfski Sverige",
-            "summary": "Hej och välkommen. Kul att du tittar förbi surfski.se Då antar vi att du antingen är en aktiv surfski utövare eller är nyfiken på sporten eller kort och gott undrar vad uppståndelsen handlar om. Detta är sajten för dig oavsett vem du är och vad&hellip;",
-            "content_html": "<p> </p>\n<p data-pm-slice=\"1 1 []\">Hej och välkommen. Kul att du tittar förbi surfski.se</p>\n<p data-pm-slice=\"1 1 []\">Då antar vi att du antingen är en aktiv surfski utövare eller är nyfiken på sporten eller kort och gott undrar vad uppståndelsen handlar om.</p>\n<p data-pm-slice=\"1 1 []\">Detta är sajten för dig oavsett vem du är och vad du har för ambitioner, tanken är att samla så mycket allmän information som möjligt under en och samma webbsajt.<br>Då samtliga inblandade i detta projekt är aktiva utövare av sporten men med helt olika bakgrunder och nivåer tror vi att sajten kan passa precis vem som helst med intresse kring </p>\n<h1 data-pm-slice=\"1 1 []\">Surfski</h1>\n<p> </p>\n<p class=\"msg msg--highlight \">Sajten är under uppbyggnad och är inte riktigt 100% ännu.</p>",
+            "summary": "Hej och välkommen. Kul att du tittar förbi surfski.se Då antar vi att du antingen är en aktiv surfskiutövare eller är nyfiken på sporten eller kort och gott undrar vad uppståndelsen handlar om. Detta är sajten för dig oavsett vem du är och vad du&hellip;",
+            "content_html": "<p> </p>\n<p data-pm-slice=\"1 1 []\">Hej och välkommen. Kul att du tittar förbi surfski.se</p>\n<p data-pm-slice=\"1 1 []\">Då antar vi att du antingen är en aktiv surfskiutövare eller är nyfiken på sporten eller kort och gott undrar vad uppståndelsen handlar om.</p>\n<p data-pm-slice=\"1 1 []\">Detta är sajten för dig oavsett vem du är och vad du har för ambitioner, tanken är att samla så mycket allmän information som möjligt under en och samma webbsajt.<br>Då samtliga inblandade i detta projekt är aktiva utövare av sporten men med helt olika bakgrunder och nivåer tror vi att sajten kan passa precis vem som helst med intresse kring </p>\n<h1 data-pm-slice=\"1 1 []\">Surfski</h1>\n<p> </p>\n<p class=\"msg msg--highlight \">Sajten är under uppbyggnad och är inte riktigt 100% ännu.</p>",
             "image": "https://surfski.se/media/posts/9/New-Project-8.png",
             "author": {
                 "name": "Redaktionen"
@@ -89,7 +89,7 @@
                    "Aktuellt"
             ],
             "date_published": "2022-06-15T16:50:51+02:00",
-            "date_modified": "2022-06-15T19:53:12+02:00"
+            "date_modified": "2022-06-17T16:08:23+02:00"
         },
         {
             "id": "https://surfski.se/torsdagar-3/",
