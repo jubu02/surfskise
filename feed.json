@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://surfski.se/utrustning/",
+            "url": "https://surfski.se/utrustning/",
+            "title": "Utrustning",
+            "summary": "Här kommer vi fylla på med vilka prylar och utrustning du kan eller bör införskaffa liksom tester och utvärderingar av sådant liksom vad som verkar trendigt.",
+            "content_html": "<p>Här kommer vi fylla på med vilka prylar och utrustning du kan eller bör införskaffa liksom tester och utvärderingar av sådant liksom vad som verkar trendigt.</p>",
+            "image": "https://surfski.se/media/posts/16/maxresdefault-2.jpg",
+            "author": {
+                "name": "Redaktionen"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-06-20T10:12:43+02:00",
+            "date_modified": "2022-06-20T10:15:33+02:00"
+        },
+        {
             "id": "https://surfski.se/annonser/",
             "url": "https://surfski.se/annonser/",
             "title": "Köp &amp; Sälj",
@@ -160,24 +175,6 @@
             ],
             "date_published": "2022-06-15T16:42:31+02:00",
             "date_modified": "2022-06-15T16:52:14+02:00"
-        },
-        {
-            "id": "https://surfski.se/mandagar/",
-            "url": "https://surfski.se/mandagar/",
-            "title": "Måndagsträning 🌧 med SKK",
-            "summary": "På måndagar kl 18.00 erbjuder Stockholms Kajakklubb träningstillfällen för alla sina medlemmar som vill förbättra och slipa på sin teknik. Vi samlas ombytta och i vattnet strax före 18 för att under dryga timmen träna på teknik &amp; fart, allt som oftast i det närliggande&hellip;",
-            "content_html": "<p> </p>\n<p data-pm-slice=\"1 1 []\">På måndagar kl 18.00 erbjuder Stockholms Kajakklubb träningstillfällen för alla sina medlemmar som vill förbättra och slipa på sin teknik.</p>\n<p data-pm-slice=\"1 1 []\">Vi samlas ombytta och i vattnet strax före 18 för att under dryga timmen träna på teknik &amp; fart, allt som oftast i det närliggande Pålsundet.</p>\n<p class=\"msg msg--highlight \">Detta träningstillfälle är för medlemmar i SKK.</p>",
-            "image": "https://surfski.se/media/posts/3/photo_2022-06-14_13-11-23.jpg",
-            "author": {
-                "name": "Redaktionen"
-            },
-            "tags": [
-                   "skk",
-                   "måndagar",
-                   "Aktuellt"
-            ],
-            "date_published": "2022-06-14T12:59:48+02:00",
-            "date_modified": "2022-06-16T09:49:11+02:00"
         }
     ]
 }
