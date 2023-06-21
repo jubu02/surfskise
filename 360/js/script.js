@@ -21,5 +21,6 @@ var options = {
     }
   };
   var player = videojs('player', options, function() {
-  
+    player.vr({projection: 'Sphere'});
+
   });
