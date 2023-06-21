@@ -4,11 +4,11 @@ var options = {
       clickAndDrag: true,
       clickToToggle: true,
       autoMobileOrientation: true,
-      backToVerticalCenter: false,
-      backToHorizonCenter: false
+      backToVerticalCenter: true,
+      backToHorizonCenter: true
     }
   }
 };
 var player = videojs('player', options, function() {
-
+  player.vr({projection: 'Sphere'});
 });

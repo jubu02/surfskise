@@ -1,23 +1,45 @@
-<!DOCTYPE html>
-<html lang="en" >
+<!doctype html>
+<html>
 <head>
-  <meta charset="UTF-8">
-  <title>Surfski.se - bc it's Epic!</title>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
-<link rel='stylesheet' href='https://vjs.zencdn.net/5.10.4/video-js.css'>
-<link rel='stylesheet' href='https://cdn.rawgit.com/yanwsh/videojs-panorama/master/dist/videojs-panorama.css'><link rel="stylesheet" href="./style.css">
-
+  <meta charset="utf-8">
+  <title>videojs-vr Demo</title>
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/video.js@7.4.1/dist/video-js.css">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/videojs-vr@1.5.0/dist/videojs-vr.css">
+  <style>
+    .video {
+  position: fixed;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.5);
+  color: #f1f1f1;
+  width: 100%;
+  padding: 20px;
+}
+#videojs-vr-player {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+}
+  </style>
 </head>
 <body>
-
-<div class="player-wrapper">
-  <video id="player" class="player video-js vjs-default-skin vjs-big-play-centered" crossorigin="anonymous" preload="metadata" autoplay controls>
-    <source src="hji.mp4">
+  <div class="video">
+ <video id="videojs-vr-player" class="video-js vjs-default-skin" loop controls playsinline crossorigin="anonymous">
+      <source src="https://surfski.se/360/hji.mp4" type="video/mp4" crossorigin="anonymous">
   </video>
-</div>
-  <script src='https://vjs.zencdn.net/5.10.4/video.js'></script>
-<script src='https://cdnjs.cloudflare.com/ajax/libs/three.js/r76/three.js'></script>
-<script src='https://rawgit.com/yanwsh/videojs-panorama/master/dist/videojs-panorama.v5.js'></script><script  src="./script.js"></script>
+  </div>
+	<script src="https://cdn.jsdelivr.net/npm/video.js@7.4.1/dist/video.js" integrity="sha256-vrHnet1gn0rfMfcNSTaMvp7bW1MU+hBXCuyPjfdxXhc=" crossorigin="anonymous"></script>
+	<script src="https://cdn.jsdelivr.net/npm/videojs-vr@1.5.0/dist/videojs-vr.js" integrity="sha256-aVLbKVeaTsLwmKYjya1a4xZGhAaG7j3Z4Ll7SkzSa6A=" crossorigin="anonymous"></script>
+  <script>
+    (function(window, videojs) {
+      var player = window.player = videojs('videojs-vr-player');
+      player.mediainfo = player.mediainfo || {};
+      player.mediainfo.projection = 'Sphere';
 
+      // AUTO is the default and looks at mediainfo
+      var vr = window.vr = player.vr({projection: 'AUTO', debug: true, forceCardboard: true});
+    }(window, window.videojs));
+  </script>
 </body>
 </html>
